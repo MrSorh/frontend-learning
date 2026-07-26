@@ -8,3 +8,5 @@ console.log(add(5, 3));
 function filter(arr,fn) {
 return arr.filter(fn)
 }
+const evens = filter([1,2,3,4,5], n => n%2 === 0)
+console.log(evens)
