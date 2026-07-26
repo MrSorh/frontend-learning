@@ -1,2 +1,7 @@
-const greeting = "Привет, GIT!"
-console.log(greeting)
+const greeting = "Привет, GIT!";
+console.log(greeting);
+
+function add(a, b) {
+  return a + b;
+}
+console.log(add(5, 3));
