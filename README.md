@@ -31,3 +31,4 @@
 - [ ] fetch, async/await (неделя 4)
 - [ ] SAP UI5 (недели 9–13)
 - [ ] Fiori Elements + BTP (недели 14–17)
+// День 4 Неделя 2
