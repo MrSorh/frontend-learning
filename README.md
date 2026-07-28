@@ -27,7 +27,7 @@
 
 - [x] JavaScript основы (неделя 1)
 - [x] Массивы, объекты (неделя 1)
-- [ ] Git, github, npm, VS Code (неделя 2)
+- [x] Git, github, npm, VS Code (неделя 2)
 - [ ] DOM, события (неделя 3)
 - [ ] fetch, async/await (неделя 4)
 - [ ] Классы и ООП (неделя 5)
