@@ -14,4 +14,4 @@ const ages = employees.map(getField("age"));
 const roles = employees.map(getField("role"));
 
 console.log(names, emails, ages, roles);
-// Changes for GIT
+// Changes for GIT v2
